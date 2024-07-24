@@ -1,7 +1,6 @@
 name: Build and Release
 permissions:
   contents: write
-  metadata: read
   packages: write
   statuses: write
 on:
