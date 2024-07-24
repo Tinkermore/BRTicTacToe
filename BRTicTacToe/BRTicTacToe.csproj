@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>BRTicTacToe</RootNamespace>
+    <AssemblyName>BRTicTacToe</AssemblyName>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
