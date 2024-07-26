@@ -10,6 +10,15 @@
 *.userosscache
 *.sln.docstates
 
+# Doc generator
+/_site
+/api
+index.md
+/toc.yml
+
+# mac shit
+.DS_Store
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
